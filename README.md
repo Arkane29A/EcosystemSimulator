@@ -1,2 +1,2 @@
-# KCL-Simulation-assignment
-For kabs and Saaaaaaaaaaaaaadh
+# Ecosystem Simulator
+Developed in Java with Bluej.
