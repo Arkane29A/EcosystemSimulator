@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hawk
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ lion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=randomAge\ field\ location
+comment1.target=Hawk(boolean,\ Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ lion\r\n
+comment2.params=
+comment2.target=void\ incrementAge()
+comment3.params=
+comment3.target=void\ incrementHunger()
+comment3.text=\r\n\ Make\ this\ fox\ more\ hungry.\ This\ could\ result\ in\ the\ fox's\ death.\r\n
+comment4.params=
+comment4.target=int\ breed()
+comment5.params=newHawks
+comment5.target=void\ act(java.util.List)
+comment6.params=
+comment6.target=Location\ findFood()
+comment7.params=newHawks
+comment7.target=void\ giveBirth(java.util.List)
+comment8.params=
+comment8.target=boolean\ canBreed()
+numComments=9

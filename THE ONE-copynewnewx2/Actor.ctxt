@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Actor
+comment0.text=\r\n\ The\ interface\ to\ be\ extended\ by\ any\ class\ wishing\ to\ participate\r\n\ in\ the\ simulation\r\n
+comment1.params=newActors
+comment1.target=void\ act(java.util.List)
+comment1.text=\r\n\ The\ interface\ to\ be\ extended\ by\ any\ class\ wishing\ to\ participate\r\n\ in\ the\ simulation\r\n
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment2.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+comment3.params=
+comment3.target=boolean\ timeaffected()
+comment3.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+comment4.params=
+comment4.target=void\ setDead()
+comment4.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+comment5.params=
+comment5.target=Location\ getLocation()
+comment5.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+comment6.params=location
+comment6.target=void\ setLocation(Location)
+comment6.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+comment7.params=
+comment7.target=Field\ getField()
+comment7.text=\r\n\ Returns\ if\ the\ actor\ is\ alive\ or\ not\r\n\ in\ the\ simulation\r\n
+numComments=8

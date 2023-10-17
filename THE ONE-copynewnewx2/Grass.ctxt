@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ model\ of\ a\ Grass.\r\n\ Grass\ age,\ move,\ eat\ impalas,\ and\ die.\r\n\ \r\n\ @author\ Saadh\ Zahid\ and\ Kabir\ Suri\r\n\ @version\ 2022.03.02(2)\r\n
+comment1.params=randomAge\ field\ location
+comment1.target=Grass(boolean,\ Field,\ Location)
+comment1.text=\r\n\ Create\ a\ Grass.\ A\ Grass\ is\ created\ with\ a\ random\ age\ and\ food\ level.\r\n\ \r\n\ @param\ randomAge\ If\ true,\ the\ Grass\ will\ have\ random\ age\ and\ hunger\ level.\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=newGrass
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ This\ is\ what\ the\ Grass\ does,\ it\ has\ an\ age\ and\ spreads\ out,\r\n\ it\ gets\ eaten\ by\ other\ animals\ such\ as\ bunny\r\n
+comment3.params=
+comment3.target=void\ incrementAge()
+comment3.text=\r\n\ Increase\ the\ age.\r\n\ This\ could\ result\ in\ the\ grass\ dying\ out\r\n
+comment4.params=newGrass
+comment4.target=void\ giveBirth(java.util.List)
+comment4.text=\r\n\ Check\ whether\ or\ not\ this\ Grass\ is\ to\ give\ birth\ at\ this\ step.\r\n\ New\ births\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newgrass\ A\ list\ to\ return\ newly\ born\ grass.\r\n
+comment5.params=
+comment5.target=int\ breed()
+comment5.text=\r\n\ Generate\ a\ number\ representing\ the\ number\ of\ births,\r\n\ if\ it\ can\ breed.\r\n\ @return\ The\ number\ of\ births\ (may\ be\ zero).\r\n
+comment6.params=
+comment6.target=boolean\ canBreed()
+comment6.text=\r\n\ A\ grass\ can\ breed\ if\ it\ has\ reached\ the\ breeding\ age.\r\n\ @return\ true\ if\ the\ grass\ can\ breed,\ false\ otherwise.\r\n
+numComments=7
